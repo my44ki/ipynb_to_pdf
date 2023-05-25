@@ -7,7 +7,14 @@
 
 ## Prerequisites
 
-後ほど記述するつもり
+conda == 23.3.1
+python == 3.8.16
+jupyter lab == 3.5.3
+tkinter == 8.6.12
+glob == 0.7
+pyPDF2 == 2.10.5
+nbformat == 5.7.0
+nbconvert == 6.5.4
 
 
 ## Installing

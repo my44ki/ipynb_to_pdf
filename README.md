@@ -12,7 +12,7 @@
 
 ## Installing
 
-    git clone ###
+    git clone https://github.com/my44ki/ipynb_to_pdf
 
 ## Usage
 jupyter 上で `ipynb_to_pdf.py` を実行してもらう。  
